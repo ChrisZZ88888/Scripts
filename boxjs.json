@@ -19,7 +19,12 @@
       "type": "text",
       "desc": "多账号用换行或#分隔"
     }
-        }
+  "author": "Mist",
+  "repo": "https://github.com/ChrisZZ88888/Scripts",
+  "script": "https://github.com/ChrisZZ88888/Scripts/blob/main/cbly.js",
+  "icons": [
+    "",
+    ""  }
 
    ]
  }  
