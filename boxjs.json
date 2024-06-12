@@ -7,7 +7,7 @@
   "scripts": [
     {
       "name": "vx臭宝乐园-手动执行",
-      "script": "https://raw.githubusercontent.com/yang7758258/ohhh154/main/cbly.js"
+      "script": "https://github.com/ChrisZZ88888/Scripts/blob/main/cbly.js"
     }
   ],
   "settings": [
@@ -21,7 +21,7 @@
   ],
   "author": "Mist",
   "repo": "https://github.com/ChrisZZ88888/Scripts",
-  "script": "https://raw.githubusercontent.com/yang7758258/ohhh154/main/cbly.js",
+  "script": "https://github.com/ChrisZZ88888/Scripts/blob/main/cbly.js",
   "icons": [
     "",
     ""
