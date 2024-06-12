@@ -5,26 +5,28 @@
   "icon": "",
   "repo": "https://github.com/ChrisZZ88888/Scripts",
   "apps": [
-       {
+    {
       "id": "cbly",
       "name": "vx臭宝乐园",
       "keys": [
         "cbly"
       ],
-     "settings": [
-    {
-      "id": "cbly",
-      "name": "Authorization",
-      "val": "",
-      "type": "text",
-      "desc": "多账号用换行或#分隔"
+      "settings": [
+        {
+          "id": "cbly",
+          "name": "Authorization",
+          "val": "",
+          "type": "text",
+          "desc": "多账号用换行或#分隔"
+        }
+      ],
+      "author": "Mist",
+      "repo": "https://github.com/ChrisZZ88888/Scripts",
+      "script": "https://raw.githubusercontent.com/ChrisZZ88888/Scripts/main/cbly.js",
+      "icons": [
+        "",
+        ""
+      ]
     }
-  "author": "Mist",
-  "repo": "https://github.com/ChrisZZ88888/Scripts",
-  "script": "https://github.com/ChrisZZ88888/Scripts/blob/main/cbly.js",
-  "icons": [
-    "",
-    ""  }
-
-   ]
- }  
+  ]
+}
