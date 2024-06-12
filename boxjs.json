@@ -8,13 +8,11 @@
     {
       "id": "cbly",
       "name": "vx臭宝乐园",
-      "keys": [
-        "cbly"
-      ],
+      "keys": ["cbly"],
       "settings": [
         {
           "id": "cbly",
-          "name": "Authorization",
+          "name": "臭宝乐园环境变量",
           "val": "",
           "type": "text",
           "desc": "多账号用换行或#分隔"
