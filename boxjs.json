@@ -11,7 +11,14 @@
       "keys": [
         "cbly"
       ],
-     
+     "settings": [
+    {
+      "id": "cbly",
+      "name": "Authorization",
+      "val": "",
+      "type": "text",
+      "desc": "多账号用换行或#分隔"
+    }
         }
 
    ]
